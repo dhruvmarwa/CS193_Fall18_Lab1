@@ -2,6 +2,14 @@
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+# Dhruv Marwa LAB01 CS193
+## Header 2
+### Header 3
+
+Things I like about CS193?
+- Its not too early in the morning
+- I get to learn more about software development 
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
